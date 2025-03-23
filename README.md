@@ -4,6 +4,7 @@
 - 💞️ Some projects I worked on are:
   - [Going Medieval (Indie)](https://store.steampowered.com/app/1029780/Going_Medieval/)
   - [Homescapes (Mobile)](https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=en_US&gl=US&pli=1)
+  - [Austin's Odyssey (Mobile)](https://play.google.com/store/apps/details?id=com.mg0.ao&hl=en)
 - Linkedin: [Dusan Slivka](https://www.linkedin.com/in/dusan-slivka-270915186/)
 - YouTube: [CrvenaPanda](https://www.youtube.com/channel/UC_VF67EXnLnH1fkX1bgoguw)
 
